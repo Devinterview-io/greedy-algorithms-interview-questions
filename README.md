@@ -4,7 +4,7 @@
 
 Check out our carefully selected list of **basic** and **advanced** Greedy Algorithms questions and answers to be well-prepared for your tech interviews in 2024.
 
-![Greedy Algorithms Decorative Image](https://storage.googleapis.com/dev-stack-app.appspot.com/blogImg/greedyAlgorithms.png?GoogleAccessId=firebase-adminsdk-bgeaf%40dev-stack-app.iam.gserviceaccount.com&Expires=1698605801&Signature=dNR6CR%2FdvQh7ATJ8H3pR%2FoVYrlCbgkyQ90Cim0EygB7Mezi0OQTicsYE6suxVxLVS8Eu8SEQEnEjPQbRKTz%2Fr4uSm0flYBw5SL8OI%2BwPup5Ui9s0G%2BbOzoAJXAr6W%2FcT6%2FtwsNBCd2eFgg0iVDnnPhhd7RJH0%2BRJSptpA8AflV47eO2LIJKsYQYIKW8cvj3LOSAefvOP2tzFI%2Bt59QQHTQljlLaF1ge92BYABFIg0F6gzeHlMfqfRtsx%2Bc6wmsjX6su7pQgYlh%2FbSUZeVvV%2FdtPIhfslJJ04L9K65kz4RYu7cylvUY9e6rn6QB3%2B8lXtfAvgJR1BS7xGlwp8mbtGrg%3D%3D)
+![Greedy Algorithms Decorative Image](https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/blogImg%2FgreedyAlgorithms.png?alt=media&token=da947af7-9b48-43bc-a3f0-ef2aca12f631&_gl=1*m7x0tq*_ga*OTYzMjY5NTkwLjE2ODg4NDM4Njg.*_ga_CW55HF8NVT*MTY5ODYwNTk1NS4xOTAuMS4xNjk4NjA3MjM0LjQyLjAuMA..)
 
 👉🏼 You can also find all answers here: [Devinterview.io - Greedy Algorithms](https://devinterview.io/data/greedyAlgorithms-interview-questions)
 
