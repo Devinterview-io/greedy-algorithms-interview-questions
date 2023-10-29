@@ -1,23 +1,221 @@
-<div data-v-5e9078c0="" data-v-b06dc010="" class="QuestionsList"><div data-v-5e9078c0=""><h1 data-v-5e9078c0="">
-      Top 7 Greedy Algorithms interview
-      questions and answers in 2021.
-    </h1> <p data-v-5e9078c0="" align="center"><a data-v-5e9078c0="" href="https://devinterview.io/"><img data-v-5e9078c0="" src="https://source.unsplash.com/collection/52661698/700x350"></a></p> <p data-v-5e9078c0="">
-      You can check all
-      7
-      Greedy Algorithms interview questions here 👉
-      https://devinterview.io/data/greedyAlgorithms-interview-questions
-    </p> <br data-v-5e9078c0=""> <div data-v-5e9078c0="" class="unit"><div><h2>🔹 1. What is a Greedy Algorithm?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>We call algorithms <em>greedy</em> when they utilise the greedy property. The greedy property is:</p><blockquote><p>At that exact moment in time, what is the optimal choice to make?</p></blockquote><p>Greedy algorithms are <em>greedy</em>. They do not look into the future to decide the global optimal solution. They are only concerned with the optimal solution <em>locally</em>. This means that <strong>the overall optimal solution may differ from the solution the greedy algorithm chooses.</strong></p><p>They never look backwards at what they've done to see if they could optimise globally. This is the main difference between Greedy Algorithms and Dynamic Programming.</p></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://skerritt.blog/greedy-algorithms/" rel="noreferrer" target="_blank" title="What is a Greedy Algorithm? Interview Questions Source To Answer">skerritt.blog</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 2. What Are Greedy Algorithms Used For?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>Greedy algorithms are quick. A lot faster than the two other alternatives (Divide &amp; Conquer, and Dynamic Programming). They're used because they're fast. Sometimes, Greedy algorithms give the global optimal solution every time. Some of these algorithms are:</p><ul><li>Dijkstra's Algorithm</li><li>Kruskal's algorithm</li><li>Prim's algorithm</li><li>Huffman trees</li></ul><p>These algorithms are Greedy, and their Greedy solution gives the optimal solution.</p></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://skerritt.blog/" rel="noreferrer" target="_blank" title="What Are Greedy Algorithms Used For? Interview Questions Source To Answer">skerritt.blog</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 3. What is the difference between Dynamic Programming and Greedy Algorithms?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/data/greedyAlgorithms-interview-questions">all 7 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 4. What's the difference between Greedy and Heuristic algorithm?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/data/greedyAlgorithms-interview-questions">all 7 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 5. Compare Greedy vs Divide &amp; Conquer vs Dynamic Programming Algorithms</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/data/greedyAlgorithms-interview-questions">all 7 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 6. Is Dijkstra's algorithm a Greedy or Dynamic Programming algorithm?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/data/greedyAlgorithms-interview-questions">all 7 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 7. Are there any proof to decide if Greedy approach will produce the best solution?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/data/greedyAlgorithms-interview-questions">all 7 answers</a></div> <br><br></div> <div data-v-5e9078c0="" class="end"></div> <br data-v-5e9078c0="">
-    Thanks 🙌 for reading and good luck on your next tech interview!
-    <br data-v-5e9078c0="">
-    Explore 3800+ dev interview question here 👉
-    <a data-v-5e9078c0="" href="https://devinterview.io/">Devinterview.io</a></div> <!----></div>
+# ⚫ Greedy Algorithms in Tech Interviews 2024: 6 Must-Know Questions & Answers
+
+**Greedy Algorithms** make locally optimal choices at each step in the hope of finding a global optimum. They're effective for certain problems where this **local-to-global strategy** works, such as the coin change or activity selection problems. In coding interviews, they assess a candidate's ability to identify when a problem can be solved with a **greedy approach** and to implement efficient solutions.
+
+Check out our carefully selected list of **basic** and **advanced** Greedy Algorithms questions and answers to be well-prepared for your tech interviews in 2024.
+
+![Greedy Algorithms Decorative Image](https://storage.googleapis.com/dev-stack-app.appspot.com/blogImg/greedyAlgorithms.png?GoogleAccessId=firebase-adminsdk-bgeaf%40dev-stack-app.iam.gserviceaccount.com&Expires=1698605801&Signature=dNR6CR%2FdvQh7ATJ8H3pR%2FoVYrlCbgkyQ90Cim0EygB7Mezi0OQTicsYE6suxVxLVS8Eu8SEQEnEjPQbRKTz%2Fr4uSm0flYBw5SL8OI%2BwPup5Ui9s0G%2BbOzoAJXAr6W%2FcT6%2FtwsNBCd2eFgg0iVDnnPhhd7RJH0%2BRJSptpA8AflV47eO2LIJKsYQYIKW8cvj3LOSAefvOP2tzFI%2Bt59QQHTQljlLaF1ge92BYABFIg0F6gzeHlMfqfRtsx%2Bc6wmsjX6su7pQgYlh%2FbSUZeVvV%2FdtPIhfslJJ04L9K65kz4RYu7cylvUY9e6rn6QB3%2B8lXtfAvgJR1BS7xGlwp8mbtGrg%3D%3D)
+
+👉🏼 You can also find all answers here: [Devinterview.io - Greedy Algorithms](https://devinterview.io/data/greedyAlgorithms-interview-questions)
+
+---
+
+## 🔹 1. What is a _Greedy Algorithm_?
+
+### Answer
+
+A **greedy algorithm** aims to solve optimization problems by making the **best local choice** at each step. While this often leads to an **optimal global solution**, it's not guaranteed in all cases. These algorithms are generally easier to implement and faster than other methods like Dynamic Programming but may not always yield the most accurate solution.
+
+### Key Features
+1. **Greedy-Choice Property**: Each step aims for a local optimum with the expectation that this will lead to a global optimum.
+2. **Irreversibility**: Once made, choices are not revisited.
+3. **Efficiency**: Greedy algorithms are usually faster, particularly for problems that don't require a globally optimal solution.
+
+### Example Algorithms
+
+#### Fractional Knapsack Problem
+Here, the goal is to maximize the value of items in a knapsack with a fixed capacity. The greedy strategy chooses items based on their **value-to-weight ratio**.
+
+```python
+def fractional_knapsack(items, capacity):
+    items.sort(key=lambda x: x[1]/x[0], reverse=True)
+    max_value = 0
+    knapsack = []
+    for item in items:
+        if item[0] <= capacity:
+            knapsack.append(item)
+            capacity -= item[0]
+            max_value += item[1]
+        else:
+            fraction = capacity / item[0]
+            knapsack.append((item[0] * fraction, item[1] * fraction))
+            max_value += item[1] * fraction
+            break
+    return max_value, knapsack
+
+items = [(10, 60), (20, 100), (30, 120)]
+capacity = 50
+print(fractional_knapsack(items, capacity))
+```
+
+#### Dijkstra's Shortest Path
+This algorithm **finds the shortest path** in a graph by selecting the vertex with the minimum distance at each step.
+
+```python
+import heapq
+
+def dijkstra(graph, start):
+    distances = {node: float('inf') for node in graph}
+    distances[start] = 0
+    priority_queue = [(0, start)]
+
+    while priority_queue:
+        current_distance, current_node = heapq.heappop(priority_queue)
+        if current_distance > distances[current_node]:
+            continue
+        for neighbour, weight in graph[current_node].items():
+            distance = current_distance + weight
+            if distance < distances[neighbour]:
+                distances[neighbour] = distance
+                heapq.heappush(priority_queue, (distance, neighbour))
+    return distances
+
+graph = {'A': {'B': 1, 'C': 4},'B': {'A': 1, 'C': 2, 'D': 5},'C': {'A': 4, 'B': 2, 'D': 1},'D': {'B': 5, 'C': 1}}
+print(dijkstra(graph, 'A'))
+```
+
+In summary, **greedy algorithms** offer a fast and intuitive approach to optimization problems, although they may sacrifice optimal solutions for speed.
+
+---
+
+## 🔹 2. What are _Greedy Algorithms_ used for?
+
+### Answer
+
+**Greedy algorithms** are often the algorithm of choice for problems where the optimal solution can be built incrementally and **local decisions** lead to a **globally optimal solution**.
+
+### Applications of Greedy Algorithms
+
+#### Shortest Path Algorithms
+- **Dijkstra's Algorithm**: Finds the shortest path from a source vertex to all vertices in a weighted graph. 
+
+  Use-Case: Navigation systems.
+
+#### Minimum Spanning Trees
+- **Kruskal's Algorithm**: Finds the minimum spanning tree in a weighted graph by sorting edges and choosing the smallest edge without a cycle.
+
+  Use-Case: LAN setup.
+
+- **Prim's Algorithm**: Starts from a random vertex and selects the smallest edge connecting to the growing tree.
+
+  Use-Case: Superior for dense graphs.
+
+#### Data Compression
+- **Huffman Coding**: Used for data compression by building a binary tree with frequent characters closer to the root. 
+
+  Use-Case: ZIP compression.
+
+#### Job Scheduling
+- **Interval Scheduling**: Selects the maximum number of non-overlapping intervals or tasks.
+
+  Use-Case: Classroom or conference room organization.
+
+#### Set Cover
+- **Set Cover Problem**: Finds the smallest set collection covering all elements in a universal set.
+
+  Use-Case: Efficient broadcasting in networks.
+
+#### Knapsack Problem
+- **Fractional Knapsack**: A variant that allows parts of items to be taken, with greedy methods giving an optimal solution.
+
+  Use-Case: Resource distribution with partial allocations.
+
+#### Other Domains
+- **Text Justification** and **Cache Management**.
+
+---
+
+## 🔹 3. Compare _Greedy_ vs _Divide & Conquer_ vs _Dynamic Programming_ algorithms.
+
+### Answer
+
+Let's explore how **Greedy**, **Divide & Conquer**, and **Dynamic Programming** algorithms differ across key metrics such as optimality, computational complexity, and memory usage. 
+
+### Key Metrics
+
+- **Optimality**: Greedy may not guarantee optimality, while both Divide & Conquer and Dynamic Programming do.
+- **Computational Complexity**: Greedy is generally the fastest; Divide & Conquer varies, and Dynamic Programming can be slower but more accurate.
+- **Memory Usage**: Greedy is most memory-efficient, Divide & Conquer is moderate, and Dynamic Programming can be memory-intensive due to caching.
+
+### Greedy Algorithms
+
+Choose Greedy algorithms when a **local** best choice leads to a **global** best choice.
+
+#### Use Cases
+- **Shortest Path Algorithms**: Dijkstra's Algorithm for finding the shortest path in a weighted graph.
+- **Text Compression**: Huffman Coding for compressing text files.
+- **Network Routing**: For minimizing delay or cost in computer networks.
+- **Task Scheduling**: For scheduling tasks under specific constraints to optimize for time or cost.
+
+### Divide & Conquer Algorithms
+
+Opt for Divide & Conquer when you can solve **independent subproblems** and combine them for the **global optimum**.
+
+#### Use Cases
+
+- **Sorting Algorithms**: Quick sort and Merge sort for efficient sorting of lists or arrays.
+- **Search Algorithms**: Binary search for finding an element in a sorted list.
+- **Matrix Multiplication**: Strassen's algorithm for faster matrix multiplication.
+- **Computational Geometry**: Algorithms for solving geometric problems like finding the closest pair of points.
+
+### Dynamic Programming Algorithms
+
+Choose Dynamic Programming when overlapping subproblems can be **solved once and reused**.
+
+#### Use Cases
+
+- **Optimal Path Problems**: Finding the most cost-efficient path in a grid or graph, such as in the Floyd-Warshall algorithm.
+- **Text Comparison**: Algorithms like the Levenshtein distance for spell checking and DNA sequence alignment.
+- **Resource Allocation**: Knapsack problem for optimal resource allocation under constraints.
+- **Game Theory**: Minimax algorithm for decision-making in two-player games.
+
+---
+
+## 🔹 4. Is _Dijkstra's_ algorithm a _Greedy_ or _Dynamic Programming_ algorithm?
+
+### Answer
+
+**Dijkstra's algorithm** utilizes a combination of greedy and dynamic programming techniques.
+
+### Greedy Component: Immediate Best Choice
+The algorithm selects the closest neighboring vertex at each step, reflecting the greedy approach of optimizing for immediate gains.
+
+#### Example
+Starting at vertex A, the algorithm picks the nearest vertex based on current known distances. 
+
+![Dijkstra's Algorithm](https://upload.wikimedia.org/wikipedia/commons/5/57/Dijkstra_Animation.gif)
+
+### Dynamic Programming Component: Global Optimization
+Dijkstra's algorithm updates vertex distances based on previously calculated shortest paths, embodying the dynamic programming principle of optimal substructure.
+
+#### Example
+Initially, all vertices have infinite distance from the source, A. After the first iteration, distances to neighbors are updated, and the closest one is chosen for the next step.
+
+```plaintext
+Initial State: A: 0, B: inf, C: inf, D: inf, E: inf
+After first iteration: A: 0, B: 2, C: 3, D: 8, E: inf
+```
+
+### Primarily Dynamic Programming
+Despite combining both strategies, the algorithm aligns more closely with dynamic programming for several reasons:
+
+1. **Guaranteed Optimality**: It provides the best solution, a hallmark of dynamic programming.
+2. **Comprehensive Exploration**: The algorithm reviews all vertices to ensure the shortest path.
+
+---
+## 🔹 5. What is the difference between _Greedy_ and _Heuristic_ algorithms?
+
+### Answer
+
+👉🏼 Check out all 6 answers here: [Devinterview.io - Greedy Algorithms](https://devinterview.io/data/greedyAlgorithms-interview-questions)
+
+---
+
+## 🔹 6. Is there a way to _Mathematically Prove_ that a _Greedy Algorithm_ will yield the _Optimal Solution_?
+
+### Answer
+
+👉🏼 Check out all 6 answers here: [Devinterview.io - Greedy Algorithms](https://devinterview.io/data/greedyAlgorithms-interview-questions)
+
+---
+
