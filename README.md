@@ -1,4 +1,4 @@
-# Top 41 Greedy Algorithms Interview Questions in 2025
+# Top 41 Greedy Algorithms Interview Questions in 2026
 
 <div>
 <p align="center">
